@@ -1,6 +1,6 @@
-# Conversor de AFN a AFD
+# Conversor de AFN, AFN-E a AFD
 
-Convierte un autómata finito no determinista (AFN), escrito en un archivo JSON, a un autómata finito determinista (AFD). El resultado se guarda en otro archivo JSON.
+Convierte un autómata finito no determinista (AFN) y automata finito no determinista con transiciones epsilon (AFN-E) escrito en un archivo JSON, a un autómata finito determinista (AFD). El resultado se guarda en otro archivo JSON.
 
 ## Cómo ejecutarlo
 
